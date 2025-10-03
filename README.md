@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Patrícia!
 
--🎓 Computer Science Student at IFSul
--💡 Dedicated to **learning by doing** and understanding how **hardware and software** connect.  
-- Currently **exploring different areas of computing** to discover where I want to specialize.
+🎓 Computer Science Student at IFSul
+💡Dedicated to **learning by doing** and understanding how **hardware and software** connect.  
+Currently **exploring different areas of computing** to discover where I want to specialize.
 
 ---
 
