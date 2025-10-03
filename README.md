@@ -57,6 +57,12 @@ Currently **exploring different areas of computing** to discover where I want to
 - 💼 **LinkedIn:** [linkedin.com/in/patricía-lima-ms](https://www.linkedin.com/in/patricía-lima-ms)
 
 ---
+### 🌍 Languages
+
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-brightgreen?style=flat-square)
+![English](https://img.shields.io/badge/English-Basic\Intermediate-blue?style=flat-square)
+
+---
 
 ## 📖 Inspirational Quotes
 
