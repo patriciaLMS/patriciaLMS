@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Patrícia!
 
-🎓 Computer Science Student at IFSul
-💡Dedicated to **learning by doing** and understanding how **hardware and software** connect.  
-Currently **exploring different areas of computing** to discover where I want to specialize.
+- Computer Science Student at IFSul 🎓 
+- Dedicated to **learning by doing** and understanding how **hardware and software** connect. 💡 
+- Currently **exploring different areas of computing** to discover where I want to specialize.
 
 <div style="width:200px; height:250px; overflow:hidden; border-radius:10px; border:2px solid #ccc;">
   <img src="./ideia_git2.png" alt="Minha Foto" style="width:100%; height:auto;">
