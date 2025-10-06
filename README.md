@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **patriciaLMS/patriciaLMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 👋 Hi, I'm Patrícia!
+# 👋 Hi, Everyone!
 
 - Computer Science Student at IFSul 🎓 
 - Dedicated to **learning by doing** and understanding how **hardware and software** connect. 💡 
