@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi Everyone!
 
-- Computer Science Student at IFSul 🎓 
+- Computer Science Student at IFSul 🎓![Brasil](https://flagcdn.com/w20/br.png)
 - Dedicated to **learning by doing** and understanding how **hardware and software** connect. 💡 
 - Currently **exploring different areas of computing** to discover where I want to specialize.
 
