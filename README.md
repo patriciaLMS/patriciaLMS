@@ -100,4 +100,7 @@ Brief exposure to:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciaLMS&layout=compact&theme=radical)
 
+---
+Developed with the assistance of AI.
+
 </div>
